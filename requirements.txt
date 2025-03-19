@@ -1,0 +1,12 @@
+transformers
+langchain_openai
+langchain_community
+langchain_ollama
+toml
+faiss-cpu
+dashscope
+pypdf
+torch
+gradio
+langchain_deepseek
+datasets

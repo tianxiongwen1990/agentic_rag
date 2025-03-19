@@ -1,0 +1,11 @@
+[general]
+model_name = 'qwen-plus' # 'qwen-plus','gpt-4o','llama3.2:3b','llama8b_q4_K_M'
+
+[data_processing]
+chunk_size = 1500
+chunk_overlap = 120
+
+[retriever]
+
+[llm_response]
+bad_response = "Sorry, based on the context, I don't know the answer"
